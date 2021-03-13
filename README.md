@@ -1,3 +1,3 @@
-# Real Estate modeling in Paris
+# Real Estate prices in Paris
 
 https://www.pap.fr/
