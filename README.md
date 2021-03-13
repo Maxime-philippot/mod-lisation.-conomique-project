@@ -1,3 +1,3 @@
-# Real Estate prices in Paris
+# Real Estate prices 
 
 https://www.pap.fr/
