@@ -1,3 +1,3 @@
-# Econometrics analysis in Paris 
+# Web scraping & Econometrics analysis in Paris 
 
 https://www.pap.fr/
